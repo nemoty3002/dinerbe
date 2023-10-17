@@ -2,5 +2,5 @@ var who68 = 'world';
 var who66 = '太郎が来た！'; 
 var who67 = '花子が来た！'; 
 function sayhello66() { alert('Hello,'+ who68 +'!'); }
-function taro66() { alert('Hello,'+ who68 +'!'); }
-function hanako66() { alert('+ who68 +'); }
+function taro66() { alert('Hello,'+ who66 +'!'); }
+function hanako66() { alert('who67'); }
