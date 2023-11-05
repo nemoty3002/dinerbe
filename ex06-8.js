@@ -1,3 +1,3 @@
-function sayhello680() { alert('Hello,' + document.getElementByid('who680').innerHTML + '!'); }
-function taro680() { docment.getElementByid('who680').innerHTML = '太郎'; }
-function hanako680() { docment.getElementByid('who680').innerHTML = '花子'; } 
+function sayhello86() { alert('Hello,' + document.getElementByid('who86').innerHTML + '!'); }
+function taro86() { docment.getElementByid('who86').innerHTML = '太郎'; }
+function hanako86() { docment.getElementByid('who86').innerHTML = '花子'; } 
